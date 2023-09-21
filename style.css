@@ -5,8 +5,9 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-color: #6226719c;
+    background-blend-mode: overlay;
 }
-
 
 .h1{
     text-align: center;
