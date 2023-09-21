@@ -44,12 +44,12 @@ body {
 }
 
 #btn {
-    background-color: #eb59b5;
+    background-color: #26bcc7;
 }
 
 input[type=button] {
     font-family: 'Orbitron', sans-serif;
-    background-color: #64278f;
+    background-color: #a4298b;
     color: white;
     border: solid black 0.5px;
     width: 100%;
